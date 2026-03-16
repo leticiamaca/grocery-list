@@ -1,16 +1,16 @@
-# React + Vite
+# Grocery List — Projeto de Revisão
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido com o objetivo de revisar e praticar conceitos fundamentais de React.
 
-Currently, two official plugins are available:
+A ideia principal foi reforçar a base da biblioteca para ganhar mais segurança no desenvolvimento de aplicações maiores — e evitar surtos no meio do caminho :)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Durante o desenvolvimento, revisei e pratiquei diversos conceitos importantes, como:
 
-## React Compiler
+- Hooks do React (`useRef` e `useState`)
+- Uso de `props` para comunicação entre componentes
+- Funções `map` e `filter` do JavaScript (muito utilizadas no React)
+- Spread operator e desestruturação de objetos e arrays
+- Importação e exportação de componentes
+- Atualização de estado de forma reativa
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Esse projeto serviu como um reforço prático dos fundamentos do React, ajudando a consolidar conceitos essenciais que são bastante utilizados no dia a dia do desenvolvimento front-end.
